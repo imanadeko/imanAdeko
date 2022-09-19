@@ -2,9 +2,13 @@
 
 # 💫About Me :
 🔭 I’m currently working on creating data analysis projects on GitHub for my portfolio.
+
 🤝 I’m looking for help with volunteer opportunities, internships and entry-level roles in data analytics.
+
 🌱 I’m currently learning Python on DataCamp.
+
 💬 Ask me about SQL, PowerBi.
+
 📫 How to reach me adekoayomide@gmail.com
 
 ## 🌐Socials
