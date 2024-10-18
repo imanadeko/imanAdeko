@@ -1,13 +1,19 @@
 ### Hi there 👋, I'm Iman
 
 # 💫About Me :
-🔭 I’m currently working on creating data analysis projects on GitHub for my portfolio.
+Highly motivated computer science student with a passion for data-driven decision making. Skilled in data analysis using Excel, Python, SQL, and Power BI. Eager to contribute these skills to a data-driven organization.
 
-🤝 I’m looking for help with volunteer opportunities, internships and entry-level roles in data analytics.
+Key Skills:
+- Data Analysis: Proficient in using Python and SQL to manipulate and analyze large datasets.
 
-🌱 I’m currently learning Python on DataCamp.
+- Data Cleaning: Skilled in cleaning and preprocessing data in Excel, SQL and Python to ensure accuracy and reliability. Experienced with handling missing values, outliers, and ensuring data quality.
 
-💬 Ask me about SQL, PowerBi.
+- Data Visualization: Experienced with Excel and Power BI for creating insightful and interactive dashboards.
+
+- Problem-Solving: Strong analytical and critical thinking skills to solve complex problems.
+
+Why Me
+My computer science background provides a robust foundation in both the technical and theoretical aspects critical for data analysis. This includes expertise in programming languages and databases alongside a strong understanding statistics. As a highly motivated learner, I'm eager to leverage this knowledge through hands-on experience and continuously refine my skillset to deliver actionable data insights.
 
 📫 How to reach me adekoayomide@gmail.com
 
