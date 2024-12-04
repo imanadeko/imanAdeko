@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Iman
 
 # 💫About Me :
-Highly motivated computer science student with a passion for data-driven decision making. Skilled in data analysis using Excel, Python, SQL, and Power BI. Eager to contribute these skills to a data-driven organization.
+Experienced data analyst skilled in data analysis using Excel, Python, SQL, and Power BI. Eager to contribute these skills to a data-driven organization.
 
 Key Skills:
 - Data Analysis: Proficient in using Python and SQL to manipulate and analyze large datasets.
