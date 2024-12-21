@@ -13,6 +13,7 @@ Key Skills:
 - Problem-Solving: Strong analytical and critical thinking skills to solve complex problems.
 
 Why Me
+
 My computer science background provides a robust foundation in both the technical and theoretical aspects critical for data analysis. This includes expertise in programming languages and databases alongside a strong understanding statistics. As a highly motivated learner, I'm eager to leverage this knowledge through hands-on experience and continuously refine my skillset to deliver actionable data insights.
 
 📫 How to reach me adekoayomide@gmail.com
